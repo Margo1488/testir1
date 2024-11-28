@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\testir\bin\Debug\testir.exe.config
+C:\Users\user\Desktop\testir\bin\Debug\testir.exe
+C:\Users\user\Desktop\testir\bin\Debug\testir.pdb
+C:\Users\user\Desktop\testir\obj\Debug\testir.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\testir\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\testir\obj\Debug\App.g.cs
+C:\Users\user\Desktop\testir\obj\Debug\testir_MarkupCompile.cache
+C:\Users\user\Desktop\testir\obj\Debug\testir_MarkupCompile.lref
+C:\Users\user\Desktop\testir\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\testir\obj\Debug\testir.g.resources
+C:\Users\user\Desktop\testir\obj\Debug\testir.Properties.Resources.resources
+C:\Users\user\Desktop\testir\obj\Debug\testir.csproj.GenerateResource.cache
+C:\Users\user\Desktop\testir\obj\Debug\testir.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\testir\obj\Debug\testir.exe
+C:\Users\user\Desktop\testir\obj\Debug\testir.pdb
